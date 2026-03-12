@@ -1,4 +1,4 @@
-# 🍺 brew
+# 🍺 Welcome to Ayush's brewery
 For a draft beer on tap
 
 ## Currently contains:
